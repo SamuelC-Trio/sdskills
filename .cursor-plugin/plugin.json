@@ -1,0 +1,17 @@
+{
+  "name": "sdskills",
+  "version": "0.1.1",
+  "description": "Agent Skills for Claude Code, Codex, Cursor, Pi, OpenCode, and other agents.",
+  "author": {
+    "name": "sdskills"
+  },
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "sdskills",
+    "agent-skills",
+    "skills"
+  ],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

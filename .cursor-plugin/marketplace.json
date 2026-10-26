@@ -1,0 +1,16 @@
+{
+  "name": "sdskills",
+  "owner": {
+    "name": "sdskills"
+  },
+  "metadata": {
+    "description": "Agent Skills for Claude Code, Codex, Cursor, Pi, OpenCode, and other agents."
+  },
+  "plugins": [
+    {
+      "name": "sdskills",
+      "source": ".",
+      "description": "Agent Skills for Claude Code, Codex, Cursor, Pi, OpenCode, and other agents."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sdskills",
+  "version": "0.1.1",
+  "description": "Agent Skills for Claude Code, Codex, Cursor, Pi, OpenCode, and other agents.",
+  "author": {
+    "name": "sdskills"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sdskills",
+    "agent-skills",
+    "skills",
+    "cursor",
+    "claude-code",
+    "codex"
+  ]
+}
